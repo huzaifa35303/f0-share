@@ -474,7 +474,7 @@ export const App: React.FC = () => {
           f0 / Vault · Enterprise File Sharing &amp; Sovereign Storage
         </p>
         <p className="mt-1" style={{ color: 'var(--text-faint)' }}>
-          Engineered by Huzaifa &amp; f0undr Team · Fast, Private, and Autonomous
+          Engineered by Huzaifa &amp; f0undr Team · Fast, Private, and Autonomous · Part of <a href="https://f0undr.vercel.app/" target="_blank" rel="noreferrer" className="underline hover:text-[var(--accent)] font-semibold">f0undr Atelier</a>
         </p>
       </footer>
 

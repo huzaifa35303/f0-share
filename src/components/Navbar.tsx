@@ -160,6 +160,18 @@ export const Navbar: React.FC<NavbarProps> = ({
 
         {/* Right Tools & Profile Controls */}
         <div className="flex items-center gap-2">
+          {/* f0undr HQ Hub Link */}
+          <a
+            href="https://f0undr.vercel.app/"
+            target="_blank"
+            rel="noreferrer"
+            className="btn-secondary text-xs py-1.5 px-2.5 hidden sm:inline-flex items-center gap-1.5 font-bold"
+            style={{ color: 'var(--accent)' }}
+            title="Return to f0undr Headquarters"
+          >
+            <span>🏛️ f0undr HQ</span>
+          </a>
+
           {/* Quick Search trigger */}
           <button
             onClick={() => onTabChange('explorer')}

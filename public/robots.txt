@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://f0-share.vercel.app/sitemap.xml
