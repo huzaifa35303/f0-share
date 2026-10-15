@@ -1,0 +1,9 @@
+{
+  "appId": "com.f0undr.share",
+  "appName": "f0-Share",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "f0 / Vault",
+  "short_name": "f0-Vault",
+  "description": "High-performance encrypted file sharing, storage vault, and instant download platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090c10",
+  "theme_color": "#090c10",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
